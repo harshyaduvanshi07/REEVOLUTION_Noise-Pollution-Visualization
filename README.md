@@ -1,4 +1,4 @@
-# Noise Pollution Analysis in Mumbai
+# Noise Pollution Analysis
 
 ## Project Overview
 This project aims to visualize noise pollution data across various locations to identify patterns and trends. The project utilizes Python libraries such as NumPy, Pandas, and Matplotlib.
